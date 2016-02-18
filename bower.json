@@ -1,0 +1,21 @@
+{
+  "name": "calvertmargie-tools",
+  "authors": [
+    "Margie Calvert"
+  ],
+  "description": "Various front end tools",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "margie"
+  ],
+  "license": "MIT",
+  "homepage": "www.elvenware.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
